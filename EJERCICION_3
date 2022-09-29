@@ -1,1 +1,10 @@
+Definir una funcion que realice el inventario de un camion de una empresa de zapatos teniendo en cuenta las siguientes condiciones:
+1: El camion unicamente puede llevar 200 cajas, ni una mas ni una menos.
+2: Debe retornar el valor total de la mercancia y cuantas cajas de cada producto se llevaron.
+3: Valor Caja Nike: 3000000, Valor Caja Adidas: 4000000, Valor Caja Rebook 5000000.
+4: El camion no puede llevar un valor mayor a 100000000 ni menor a 50000000.
 
+#TODO:Utilizar la siguiente funcion:
+
+def camion_zap():
+return(Valor total de la mercancia, numero de cajas de cada producto.)
