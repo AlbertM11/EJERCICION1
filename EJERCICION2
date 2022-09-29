@@ -1,1 +1,9 @@
+Definir una funcion que lleve los datos de un torneo relampago de futbol teniendo en cuenta las siguientes condiciones:
+1: El torneo debe incluir al menos 10 equipos.
+2: En caso de empate debera disputarse por el numero de goles acumulados, en caso de empate en goles por menoria de tarjetas.
+3: La funcion debe retornar el equipo que anoto mas goles.
 
+#TODO utilice las siguientes funciones para elaborar el programa:
+def torneo_equip():
+
+return(El equipo ganador y el equipo que mas anoto)
