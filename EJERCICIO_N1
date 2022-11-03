@@ -1,9 +1,9 @@
 Definir una funcion que realice la cuenta del numero de personas que llegan a un evento determinado teniendo en cuenta las siguientes condiciones:
 1: Unicamente pueden ingresar jugadores de Voleybol, Futbol y Basketball.
-2: El limite de personas que pueden ingresar son 300 personas.
+2: El jugador debe medir al menos 1.80 M.
 3: La edad minima del jugador debe ser 20 años.
 #TODO:
-Utilizar la funcions funciones:
+Utilizar las funciones:
 def edad_j():
 def jugador_ingr():
 def depor_jug():
